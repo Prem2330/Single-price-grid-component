@@ -1,0 +1,128 @@
+body{
+  background-color: #eaf1f8;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+}
+.box{
+position: absolute;
+top: 20%;
+ left: 31%;
+ bottom: 40%;
+  background-color: #000000;
+}
+
+.upper{
+  background-color:  #ffffff;
+  text-align: left;
+  font-weight: normal;
+  position: absolute;
+  top: 0px;
+}
+
+.left{
+  background-color: #20B2AA	;
+position:absolute;
+font-weight: normal;
+top: 0;
+right: 300px;
+}
+.right{
+  position:relative;
+    top: 80px;
+    left: 300px;
+    background-color: #48D1CC;
+    font-weight: normal;
+}
+h2{
+  margin-top: 30px;
+  text-align: left;
+  margin-left: 20px;
+  color: #00CED1;
+}
+
+.up{
+   color: #e4e32c;
+   position: absolute;
+   top: 80px;
+margin-left: 20px;
+font-size: 20px;
+}
+
+.down{
+  text-align: left;
+  position: absolute;
+  left: 20px;
+  top: 115px;
+    font-family: 'Karla', sans-serif;
+    line-height: 20px;
+}
+
+pre{
+  color: #B0B0B0;
+}
+
+.belowleft{
+color: #ffffff;
+position: absolute;
+top: 15px;
+left: 25px;
+}
+.dolar{
+  text-align: left;
+  position: absolute;
+  top: 20px;
+  left: -4px;
+}
+
+.month{
+  font-size: 16px;
+}
+.per{
+  position: absolute;
+  top: 25px;
+  left: 50px;
+  color:#E8E8E8;
+}
+
+
+.Full{
+  position: absolute;
+  left: 0px;
+  top: 60px;
+}
+
+.why{
+  color: 	#E0E0E0;
+  position: absolute;
+  top: 0px;
+  font-size: 13px;
+  left: 18px;
+  line-height: 19px;
+
+}
+
+.w{
+  color: #ffffff;
+  font-size: 21px;
+  position: absolute;
+  top: 13px;
+}
+
+.attribution{
+  font-family: 'Girassol', cursive;
+text-align: center;
+font-weight:bold;
+font-size: 10px;
+}
+
+.button1 {background-color: #c1cd32;
+width: 220px;
+height: 40px;
+position: absolute;
+left: 20px;
+border-color: #c1cd32;
+border-radius: 9px;
+color: #ffffff;
+font-weight: bold;
+
+}
